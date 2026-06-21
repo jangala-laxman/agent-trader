@@ -1,0 +1,20 @@
+{
+  "name": "deepseek-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.17.0",
+    "csv-writer": "^1.6.0",
+    "dotenv": "^17.4.2",
+    "nodemailer": "^8.0.11",
+    "technicalindicators": "^3.1.0",
+    "yahoo-finance2": "^3.15.3"
+  }
+}
